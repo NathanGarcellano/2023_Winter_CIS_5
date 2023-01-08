@@ -6,7 +6,7 @@
  *      First Program all progammers write when testing their IDE
  *      for the first time.
  *      C:Programming Language by
- *      Dennis Ritchie and Brian Kerningham
+ *      Dennis Ritchie and Brian Kernighan
  */
 
 //System Libraries
@@ -31,6 +31,7 @@ int main(int argc, char** argv) {
     //Map/Process the Inputs -> Outputs
     
     //Display Inputs/Outputs
+    cout<<"Hello World"<<endl;
     
     //Clean up memory and files
     
